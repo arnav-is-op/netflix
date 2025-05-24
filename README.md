@@ -13,7 +13,7 @@ A responsive clone of Netflix's landing page built using HTML and CSS.
 
 👉[Click here to try it out](https://arnav-is-op.github.io/netflix-clone/)
 
-[📁 GitHub Repo](https://github.com/arnav-is-op/weather-app)
+[📁 GitHub Repo](https://github.com/arnav-is-op/netflix-clone)
 
 
 ## 🛠️ Tech Stack
