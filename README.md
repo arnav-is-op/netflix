@@ -11,7 +11,7 @@ A responsive clone of Netflix's landing page built using HTML and CSS.
 
 ## 🚀 Live Demo
 
-👉 https://arnav-is-op.github.io/netflix-clone/
+👉[Click here to try it out](https://arnav-is-op.github.io/netflix-clone/)
 
 
 ## 🛠️ Tech Stack
